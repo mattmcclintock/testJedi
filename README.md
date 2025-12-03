@@ -32,3 +32,4 @@ Try small changes like:
 - Add a new test in `tests/`
 
 Then open a PR to see CI run and generate more GitHub data.
+All work and no play makes Jack a dull boy.
